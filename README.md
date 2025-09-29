@@ -1,6 +1,6 @@
-# 📘 2025-Q1 AI/DL Study Repository
+# 📘 2025-02 AI/DL( CV & NLP )  Study Repository
 
-[25-26 GDG on Campus Sookmyung 6기] 1분기 스터디 (AI/DL – CV & NLP) 저장소
+[25-26 GDG on Campus Sookmyung 6기] 2025-02 Deep Learning AI/DL 스터디 저장소
 
 ## 📌 TL;DR
 
