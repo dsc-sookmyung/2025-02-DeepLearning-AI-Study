@@ -99,9 +99,9 @@ members/
 - 일관된 메시지 사용합니다!
 
 ```bash
-feat: WEEK01 강의 요약 및 코드 추가
-fix: WEEK01 코드 버그 수정
-chore: 디렉토리 구조 정리
+feat : WEEK01 강의 요약 및 코드 추가
+fix : WEEK01 코드 버그 수정
+chore : 디렉토리 구조 정리
 ```
 
 ---
