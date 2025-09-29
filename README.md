@@ -27,6 +27,17 @@
 
 ---
 
+## 📚 커리큘럼 & 참고 자료
+
+스터디 세부 커리큘럼과 진행 방식은 아래 링크에서 확인하실 수 있습니다 👇
+
+- [AI/DL 스터디 커리큘럼 (Notion)](https://www.notion.so/1-AI-DL-27133fc61813811c85a7dccdb3c6e3e9?source=copy_link)
+- [GDG Sookmyung 티스토리 블로그](https://dsc-sookmyung.tistory.com) → 격주 업로드
+
+(순서: 서영님 → 혜나님 → 현서님 → 은재님 → 윤서님 → 찬란님 → 해림님)
+
+---
+
 ## 🛠 브랜치 & 디렉토리 규칙
 
 ### 1) 브랜치
@@ -50,7 +61,7 @@
  │    └── WEEK02/
  │         ├── summary.md
  │         └── practice/
- └── hannah_CV/
+ └── Hannah_CV/
       └── WEEK01/ ...
 ```
 
