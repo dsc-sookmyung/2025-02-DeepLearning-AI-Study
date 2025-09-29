@@ -24,8 +24,8 @@ for f in fm.findSystemFonts(fontpaths=None, fontext='ttf'):
 # 2-1. 데이터 수집
 print("데이터 수집 중...")
 
-urllib.request.urlretrieve("https://raw.githubusercontent.com/e9t/nsmc/master/ratings_train.txt", filename="ratings_train.txt")
-urllib.request.urlretrieve("https://raw.githubusercontent.com/e9t/nsmc/master/ratings_test.txt", filename="ratings_test.txt")
+urllib.request.urlretrieve("https://raw.githubusercontent.com/e9t/nsmc/master/ratings_train.txt", filename="practice/ratings_train.txt")
+urllib.request.urlretrieve("https://raw.githubusercontent.com/e9t/nsmc/master/ratings_test.txt", filename="practice/ratings_test.txt")
 
 # ✅ 데이터 로드
 train_dataset = pd.read_table("ratings_train.txt")

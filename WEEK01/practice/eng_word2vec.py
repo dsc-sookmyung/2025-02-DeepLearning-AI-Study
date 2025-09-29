@@ -125,7 +125,7 @@ for epoch in range(10):
 # 1-5. 임베딩 품질 확인
 print("임베딩 품질 확인 중...")
 
-f = open('vectors.txt' ,'w')
+f = open('practice/vectors.txt' ,'w')
 f.write('{} {}\n'.format(vocab_size-1, embedding_dim))
 vectors = model.get_weights()[0]
 for word, i in tokenizer.word_index.items():
@@ -133,6 +133,6 @@ for word, i in tokenizer.word_index.items():
 f.close()
 
 # 모델 로드
-w2v = gensim.models.KeyedVectors.load_word2vec_format('./vectors.txt', binary=False)
+w2v = gensim.models.KeyedVectors.load_word2vec_format('./practice/vectors.txt', binary=False)
 
 w2v.most_similar(positive=['apple'])
