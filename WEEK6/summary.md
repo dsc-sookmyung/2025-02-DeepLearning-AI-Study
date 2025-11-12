@@ -1,4 +1,4 @@
-# WEEK07 Summary - NLP (김찬란)
+# WEEK06 Summary - NLP (김찬란)
 
 ### 📖 강의 핵심
 - Pretraining
